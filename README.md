@@ -12,6 +12,19 @@ The method integrates two key components:
 
 ---
 
+## Dataset and Resources Download
+
+Due to GitHub's file size restrictions, additional resources are hosted on Quark Drive:
+
+| Resource Type          | Download Link                          | Extraction Code |
+|------------------------|----------------------------------------|-----------------|
+| Full Dataset (v1.2)    | [Quark Drive](https://pan.quark.cn/s/2e6d4079f753) | `d1up`          |
+| Sent2Vec Pre-trained Model | Same as above                        | `d1up`          |
+| Joern Components       | Same as above                        | `d1up`          |
+
+**Notes**:  
+- Total size: 7.3GB (compressed)
+
 ## Scripts Description
 
 | Script Name                      | Description                                                                                                                                     |
